@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image]('http://prntscr.com/n1sirq')
+![image]('./image.png')
 
 ## Available Scripts
 
